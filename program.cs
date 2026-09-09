@@ -5,6 +5,20 @@ using System.IO;
 
 internal class program
 {
+
+  //ХРАНЕНИЕ КНИЖЕК
+  //КОД(работает)
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
+   //КОД
   static void Main()
   {
     Console.Clear();
